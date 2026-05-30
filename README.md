@@ -149,8 +149,8 @@ endmodule
 ## 📊 SIMULATION RESULTS & OUTPUT IMAGES
 
 ### **1. Console Output Log Screen Shot**
-https://ibb.co/jvcgFc6c
-https://ibb.co/4RxVdP41
+![Digital Clock Screenshot](https://raw.githubusercontent.com/kakarlamudidivya90-dev/Codtech_digital_clock_/main/Screenshot_20260530_192946.jpg)
+![Digital Clock Screenshot](IMG_20260530_193001.jpg)
 
 ### **2. Timing Waveforms Screen Shot (EPWave)**
 https://ibb.co/LD9B24LX
